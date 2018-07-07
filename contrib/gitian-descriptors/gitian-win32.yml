@@ -14,7 +14,7 @@ packages:
 reference_datetime: "2014-01-29 00:00:00"
 remotes:
 - "url": "https://github.com/Robert746/makhulucoin-source.git"
-  "dir": "makhulucoin"
+  "dir": "makhulucoin-source"
 files:
 - "qt-win32-4.8.3-gitian-r4.zip"
 - "boost-win32-1.55.0-gitian-r6.zip"
