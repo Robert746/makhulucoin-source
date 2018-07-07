@@ -31,7 +31,7 @@ script: |
   unzip ../build/bitcoin-deps-win32-gitian-r9.zip
   cd $HOME/build/
   #
-  cd makhulucoin
+  cd makhulucoin-source
   export PATH=$STAGING/host/bin:$PATH
   mkdir -p $OUTDIR/src
   git archive HEAD | tar -x -C $OUTDIR/src
